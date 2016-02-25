@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[bencliff]]></title>
         <description><![CDATA[bencliff]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bencliff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 05:03:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 05:05:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bencliff/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I've been waiting to long for this day!</p>]]></description>
-            <link>undefined8eb5794b-ad48-4248-9a59-d31fec23982e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ba7938a-26fc-4d03-9640-4980f88a72f9.png">]]></description>
+            <link>https://thegrid.ai/bencliff/8eb5794b-ad48-4248-9a59-d31fec23982e/index.html</link>
             <guid isPermaLink="false">8eb5794b-ad48-4248-9a59-d31fec23982e</guid>
-            <pubDate>Thu, 25 Feb 2016 05:03:51 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 05:04:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
