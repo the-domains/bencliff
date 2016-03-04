@@ -1,29 +1,41 @@
-name: bencliff
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.07044
 title: 'This is Me!'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5625
+  brandStrength: 0.5125448
+  lightness: 0
+  brandColors:
+    - '#CFE9E9'
+    - '#141517'
+    - '#4BBCBE'
+    - '#167777'
+    - '#CF815B'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: bencliff
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#404040'
-    - '#f6f6f8'
-    - '#518d8d'
-    - '#656469'
-    - '#a1a1a3'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0.5625
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.09139785
+layout_spectrum: 1
